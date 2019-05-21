@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Sandbox\\dynamic-proposal-model-poc\\Model.Gates\\Model.Gates.csproj": {}
+  },
+  "projects": {
+    "C:\\Sandbox\\dynamic-proposal-model-poc\\Model.Gates\\Model.Gates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sandbox\\dynamic-proposal-model-poc\\Model.Gates\\Model.Gates.csproj",
+        "projectName": "Model.Gates",
+        "projectPath": "C:\\Sandbox\\dynamic-proposal-model-poc\\Model.Gates\\Model.Gates.csproj",
+        "packagesPath": "C:\\Users\\ocx\\.nuget\\packages\\",
+        "outputPath": "C:\\Sandbox\\dynamic-proposal-model-poc\\Model.Gates\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Sandbox\\NuGet.Config",
+          "C:\\Users\\ocx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://webapps.ornl.gov/nuget/nuget": {},
+          "https://www.myget.org/F/particular/": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

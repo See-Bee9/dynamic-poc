@@ -1,0 +1,14 @@
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\bin\Debug\netcoreapp2.2\Model.Web.deps.json
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\bin\Debug\netcoreapp2.2\Model.Web.runtimeconfig.json
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\bin\Debug\netcoreapp2.2\Model.Web.runtimeconfig.dev.json
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\bin\Debug\netcoreapp2.2\Model.Web.dll
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\bin\Debug\netcoreapp2.2\Model.Web.pdb
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\obj\Debug\netcoreapp2.2\Model.Web.csprojAssemblyReference.cache
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\obj\Debug\netcoreapp2.2\Model.Web.csproj.CoreCompileInputs.cache
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\obj\Debug\netcoreapp2.2\Model.Web.RazorAssemblyInfo.cache
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\obj\Debug\netcoreapp2.2\Model.Web.RazorAssemblyInfo.cs
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\obj\Debug\netcoreapp2.2\Model.Web.AssemblyInfoInputs.cache
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\obj\Debug\netcoreapp2.2\Model.Web.AssemblyInfo.cs
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\obj\Debug\netcoreapp2.2\Model.Web.RazorTargetAssemblyInfo.cache
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\obj\Debug\netcoreapp2.2\Model.Web.dll
+C:\Sandbox\dynamic-proposal-model-poc\Model.Web\obj\Debug\netcoreapp2.2\Model.Web.pdb

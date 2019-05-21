@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Update="WeakMonsterFactory.cs">
+        <DependentUpon>IMonsterFactory.cs</DependentUpon>
+      </Compile>
+      <Compile Update="MediumMonsterFactory.cs">
+        <DependentUpon>IMonsterFactory.cs</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+</Project>
